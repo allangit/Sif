@@ -8,3 +8,6 @@ las validaciones se haran denro los test logs
 verificando.......
 
 programando a la fpga
+
+este desarrollo esta en la el modelo XS34400 de la fpga
+dsddddddd
