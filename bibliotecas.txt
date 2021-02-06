@@ -4,5 +4,7 @@ En esta pagina vamos a digitar las bibliotecas de php
 En esta bibliteca vamos a digitar las bibliotecas de java
 
 aqui vamos a verificar las bibliotecas de python
-las validaciones se haran dentro los test logs
+las validaciones se haran denro los test logs
 verificando.......
+
+programando a la fpga
